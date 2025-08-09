@@ -3,3 +3,7 @@ document.write("Array is: ");
 for (let i = 0; i < arr.length; i++) {
   document.write(arr[i] + ", ");
 }
+
+// OR
+
+// document.write("Array is: " + arr);
